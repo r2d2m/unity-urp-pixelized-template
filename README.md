@@ -2,9 +2,9 @@
 
 use this repo as a quickstart for making an isometric pixelized 3d game.
 
-## universal rendering pipeline
+## universal render pipeline
 
-the project depends on the universal rendering pipeline designed by Unity.
+the project depends on the universal render pipeline designed by Unity.
 
 ### resources
 - https://docs.unity3d.com/Packages/com.unity.render-pipelines.universal@7.1/manual/index.html
@@ -12,7 +12,7 @@ the project depends on the universal rendering pipeline designed by Unity.
 
 ## ProPixelizer
 
-the project depends on the universal rendering pipeline designed by Unity.
+the project depends on the universal render pipeline designed by Unity.
 
 ### resources
 - https://sites.google.com/view/propixelizer
