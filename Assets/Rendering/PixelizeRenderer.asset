@@ -40,7 +40,7 @@ MonoBehaviour:
     passOperation: 0
     failOperation: 0
     zFailOperation: 0
-  m_ShadowTransparentReceive: 1
+  m_ShadowTransparentReceive: 0
   m_RenderingMode: 0
   m_AccurateGbufferNormals: 0
 --- !u!114 &3592902934717398978
@@ -57,7 +57,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Active: 1
   UseDepthTestingForIDOutlines: 1
-  DepthTestThreshold: 0.0001
+  DepthTestThreshold: 0.0000001
   UseNormalsForEdgeDetection: 0
   NormalEdgeDetectionSensitivity: 3.5
   SourceBufferForPixelization: 1
