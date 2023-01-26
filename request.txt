@@ -1,0 +1,6 @@
+Hello r2d2m, could you please make this repository private? 
+
+I am the author of the base repo and I accidentally published a version that contained a paid and licensed product, which exists publicly here in this fork, and shows up when you search for the product in GitHub.
+please help me protect the original author's work and make this repository private. 
+
+I hope you can understand and will help me correct my mistake. Thank you.
